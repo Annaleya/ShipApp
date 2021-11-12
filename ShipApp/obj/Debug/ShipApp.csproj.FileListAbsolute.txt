@@ -1,0 +1,7 @@
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_ShipApp\ShipApp\ShipApp\bin\Debug\ShipApp.exe.config
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_ShipApp\ShipApp\ShipApp\bin\Debug\ShipApp.exe
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_ShipApp\ShipApp\ShipApp\bin\Debug\ShipApp.pdb
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_ShipApp\ShipApp\ShipApp\obj\Debug\ShipApp.csproj.AssemblyReference.cache
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_ShipApp\ShipApp\ShipApp\obj\Debug\ShipApp.csproj.CoreCompileInputs.cache
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_ShipApp\ShipApp\ShipApp\obj\Debug\ShipApp.exe
+C:\Users\annaleya.hamilton\source\repos\annaleya.hamilton_ShipApp\ShipApp\ShipApp\obj\Debug\ShipApp.pdb
